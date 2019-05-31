@@ -2,3 +2,5 @@
 notebook/\.ipynb_checkpoints/
 
 notebook/graphs/
+
+notebook/data/mnist/

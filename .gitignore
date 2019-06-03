@@ -4,3 +4,13 @@ notebook/\.ipynb_checkpoints/
 notebook/graphs/
 
 notebook/data/mnist/
+
+*.pyc
+
+notebook/checkpoints/
+
+notebook/embed_vn/
+
+notebook/visualization/
+
+notebook/data/text8\.zip
